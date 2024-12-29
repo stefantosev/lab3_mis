@@ -9,7 +9,7 @@ import 'screens/home.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
-//TODO: за потсетување на корисникот да ја отвори апликацијата и да ја види шегата на денот (во време по ваш избор).
+
 
 Future<void> main() async {
   runApp(const MyApp());
